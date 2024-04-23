@@ -4,12 +4,10 @@ This is a Python script that automatically detects and extracts the title from a
 
 ## Usage
 Run the script in the console.
-<pre>
-\```python
+```python
 cd image_title_extractor
 python main.py
-\```
-</pre>
+```
 
 ## Dependencies
 - OpenCV (cv2)
